@@ -1,2 +1,2 @@
 # flexblog
-![imagem do site Fleblog](path/img-projeto)
+![imagem do site Fleblog](path/img-projeto.png)
