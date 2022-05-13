@@ -3,4 +3,4 @@ Estudando mais um pouco sobre Responsividade, CSS e Flexbox. não ficou muito bo
 
 paro nunca 🦾👩🏻‍💻 #
 
-![alt text](https://github.com/Thiagobarroso/flexblog/blob/main/img-projeto.png "Logo Title Text 1")
+![alt text](https://github.com/Thiagobarroso/flexblog/blob/main/img-projeto.png "Página web Flexblog")
